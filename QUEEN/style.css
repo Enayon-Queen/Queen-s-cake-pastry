@@ -1,0 +1,10 @@
+body{
+    background-color: rosybrown;
+    font: arial; fallback: sans-serif;
+     background-image: url(Flowers.jpg);
+     background-repeat: no-repeat;
+     background-position: 100px;
+     background-attachment: fixed;
+
+
+}

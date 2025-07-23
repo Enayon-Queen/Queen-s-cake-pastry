@@ -1,0 +1,47 @@
+            table,
+            th,
+            td {
+                border: dashed 5px;
+                border-collapse: 2px;
+                text-align: center;
+            }
+
+            section footer {
+                color: aqua;
+            }
+
+            body {
+                background-color: antiquewhite;
+                background-image: url(./cake2.jpg);
+                background-repeat: no-repeat;
+                background-position:right top;
+                background-attachment: fixed;
+            }
+
+            .queen {
+                color: blanchedalmond;
+                text-align: left;
+            }
+
+            .quincy {
+                color: aqua;
+                text-align: left;
+            }
+            .div{
+                border: 3px solid peru; 
+                background-color: black;
+                margin: 30px;
+                color: bisque;
+
+            }
+            .para{
+                display: flex;
+                justify-content: space-evenly;
+                flex-direction: row;
+
+            }
+            .para li{
+                text-decoration: none;
+                list-style: none;
+
+            }
